@@ -4,17 +4,17 @@
     "MAINTENANCE": false,
     "allowInbox": false,
     "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
-    "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "AMDIN_NAME": "Khôi",
+    "keyRent": "NTR",
+    "FACEBOOK_ADMIN": "Khôis't",
+    "PREFIX": "/",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "100089477253149",
         ""
     ],
     "NDH": [
-        "",
+        "100089477253149",
         ""
     ],
     "autoCleanCache": {
